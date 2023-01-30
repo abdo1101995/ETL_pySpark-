@@ -44,6 +44,8 @@ fact table->it is about bussiness metrics like sales ,profits,number of employes
 
 dimension tables that surrounds fact table by keys(which link them):they are context that answer why ,how ,where ,when.
 
+![alt text](https://github.com/abdo1101995/ETL_pySpark-/blob/main/Screenshot%202023-01-22%20004921.png)
+
 #### 3.2 Mapping Out Data Pipelines
 we do ETL Pipline Process:
 
